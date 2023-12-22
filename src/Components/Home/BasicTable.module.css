@@ -1,0 +1,24 @@
+.toggle{
+    width: 50px;
+    height: 25px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    margin-top: 7rem;
+    background: #f1f1f1;
+    display: flex;
+    align-items: center;
+    margin-left: 35rem;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.icon svg{
+    width: 18px;
+    padding-right: 2px;
+}
+.active{
+    background-color: blueviolet;
+}

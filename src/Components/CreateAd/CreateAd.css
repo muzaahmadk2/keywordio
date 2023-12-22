@@ -1,0 +1,52 @@
+.card-title {
+  padding: 0;
+  font-weight: bold;
+}
+.card-subtitle {
+  margin-bottom: 0;
+}
+
+.card {
+  width: 20rem;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+.card img {
+  width: 80%;
+  margin-left: 2rem;
+}
+.form-check input {
+  width: 1.5em;
+  height: 1.5em;
+}
+.conta {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  border: 1px solid #ddd;
+  margin: 2rem;
+  border-radius: 5px;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1rem;
+}
+.cardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 50rem;
+    left: 15rem;
+    position: relative;
+
+}
+.title{
+    color: #323c46;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.btn-primary{
+    width: 9rem;
+    border-radius: 3px;
+    position: relative;
+    left: 1105px;
+}
